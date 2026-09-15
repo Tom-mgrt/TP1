@@ -5,7 +5,7 @@ body{
 .container{
     background-color: white;
     width: 100vh;
-    length: 100vh;
+    height: 100vh;
     margin: auto;
     text-align: center;
 }
